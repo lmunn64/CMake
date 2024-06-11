@@ -1,0 +1,13 @@
+# Target labels
+ glfw3-populate
+# Source files and their labels
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/CMakeFiles/glfw3-populate
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/CMakeFiles/glfw3-populate.rule
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/CMakeFiles/glfw3-populate-complete.rule
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/glfw3-populate-prefix/src/glfw3-populate-stamp/glfw3-populate-build.rule
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/glfw3-populate-prefix/src/glfw3-populate-stamp/glfw3-populate-configure.rule
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/glfw3-populate-prefix/src/glfw3-populate-stamp/glfw3-populate-download.rule
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/glfw3-populate-prefix/src/glfw3-populate-stamp/glfw3-populate-install.rule
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/glfw3-populate-prefix/src/glfw3-populate-stamp/glfw3-populate-mkdir.rule
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/glfw3-populate-prefix/src/glfw3-populate-stamp/glfw3-populate-patch.rule
+/mnt/d/Desktop/Projects/game/build/_deps/glfw3-subbuild/glfw3-populate-prefix/src/glfw3-populate-stamp/glfw3-populate-test.rule

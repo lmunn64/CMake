@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/src/app.cpp.o CMakeFiles/app.dir/src/glad.c.o -o ../bin/app   -L/mnt/d/Desktop/Projects/game/lib  -Wl,-rpath,/mnt/d/Desktop/Projects/game/lib -lglfw3 -lGL -lX11 -lpthread -ldl 
